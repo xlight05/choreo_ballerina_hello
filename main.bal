@@ -3,7 +3,7 @@ import ballerina/log;
 
 public type Payload record {|
     string code;
-    string version = "v2";
+    string version = "latest";
 |};
 
 @http:ServiceConfig {
