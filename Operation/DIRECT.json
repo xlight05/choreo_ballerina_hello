@@ -1,0 +1,20 @@
+{
+    "operation": "DIRECT",
+    "outputType": [
+        "int",
+        "float",
+        "decimal",
+        "string",
+        "boolean"
+    ],
+    "inputType": [
+        "int",
+        "float",
+        "decimal",
+        "string",
+        "boolean"
+    ],
+    "imports": {},
+    "errorReturned": false,
+    "expression": "${LHS} : ${PA_1}"
+}

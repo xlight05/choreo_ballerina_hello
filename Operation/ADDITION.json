@@ -1,0 +1,16 @@
+{
+    "operation": "ADDITION",
+    "outputType": [
+        "int",
+        "float",
+        "decimal"
+    ],
+    "inputType": [
+        "int",
+        "float",
+        "decimal"
+    ],
+    "imports": {},
+    "errorReturned": false,
+    "expression": "+"
+}
