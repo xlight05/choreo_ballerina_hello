@@ -2,8 +2,8 @@ import ballerina/http;
 import ballerina/log;
 
 public type Payload record {|
-    string inputs;
-    string output;
+    string code;
+    string version = "v2";
 |};
 
 @http:ServiceConfig {
